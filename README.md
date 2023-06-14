@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node JS , Mongodb , Express**
 
-- 🔭 kian Alraqmih [kian Alraqmih](https://kian.com.sa/)
--  [kian Alraqmih](https://kian.com.sa/)
--  [e-ecommerce](https://kian.com.sa/](https://hory.oc.kian.work/)) - REACT 
+MY PROJECTS
+-  [kian Alraqmih](https://kian.com.sa/) - WORDPRESS
+-  [e-ecommerce]((https://hory.oc.kian.work/)) - REACT 
 -  [](https://kian.com.sa/)
 -  [kian Alraqmih](https://kian.com.sa/)
 -  [kian Alraqmih](https://kian.com.sa/)
