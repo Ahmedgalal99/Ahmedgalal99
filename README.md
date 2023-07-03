@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning **Node JS , Mongodb , Express**
 
 MY PROJECTS
--  [kian Alraqmih](https://kian.com.sa/) - WORDPRESS
 -  [e-ecommerce](https://hory.oc.kian.work/) - REACT 
--  [unicoinmarkets](https://unicoinmarkets.net/)
--  [motiv](https://motivn.vercel.app/)
--  [electrofix](https://uiteam.kian.work/electrofix/)
--  [jamjoum](https://jamjoum.zayed.kian-alrqmiah.com/)
+-  [unicoinmarkets](https://unicoinmarkets.net/) - REACT
+-  [motiv](https://motivn.vercel.app/) - REACT
+-  [kian Alraqmih](https://kian.com.sa/) - WORDPRESS
+-  [electrofix](https://uiteam.kian.work/electrofix/)  - WORDPRESS
+-  [jamjoum](https://jamjoum.zayed.kian-alrqmiah.com/) - UI
 
 - 💬 Ask me about **react**
 
